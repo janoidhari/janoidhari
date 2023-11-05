@@ -25,7 +25,7 @@ class Desc extends MobileDeveloper {
 
   @override
   List<Skills> getSkills() {    
-    List<Skills> languages  = ['C', 'C++', 'Dart', 'PHP', 'Python','JS','React'];
+    List<Skills> languages  = ['C', 'C++', 'HTML','CSS','Dart', 'PHP', 'Python','JS','React'];
     return languages;   
   }
 }
@@ -34,11 +34,11 @@ class Desc extends MobileDeveloper {
 
 ```css
  
-- 🔭 I'm currently working on Flutter/React Application Development...
+- 🔭 I'm currently working on Flutter/React Mobile Application Development...
 
-- 🌱 I’m currently learning Python[Data Scince]...
+- 🌱 I’m currently learning Python[Data Scince] & ReactNative With JS...
 
-- 💬 Ask me about anything which confused you in DSA ,FLUTTER,REACT, OR JAVASCRIPT
+- 💬 Ask me about anything which confused you in DSA ,FLUTTER,REACT, OR Mention above languages
 
 - 📫 How to reach me **ronakjoshi8299@gmail.com**
 
