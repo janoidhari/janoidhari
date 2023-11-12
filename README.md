@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm RONAK JOSHI</h1>
 
->  <B> Founder of OmStack Information & Technology</B>
+>  <B> Founder of OmStack Information & Technology</B> <br>
 >   An Aspiring and Self - Motivated Flutter Developer  and Professior with Problem solving mindset and ability to perform well in collaboration...<br>
 >  Only learning is A key of success in IT industry...-  <B>Ronak Joshi</B>
 
