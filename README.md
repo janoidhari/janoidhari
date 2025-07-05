@@ -26,19 +26,20 @@
 ---
 
 ## 💡 About Me  
-```dart
-import 'dev-community:india/flutter-devs';
-
-class AboutMe {
-  static final String name = "Ronak Joshi";
-  static final String role = "Flutter / React Developer";
-  static final String location = "Gujarat, India";
-
-  List<String> skills() => [
-    "C", "C++", "HTML", "CSS", "Dart", "PHP", "Python", "JavaScript", "React"
-  ];
-}
-```
+Name: Ronak Pravinchandra Joshi
+Role: Assistant Professor | PhD Scholar | Founder at Omstck Technology
+Skills:
+  - Flutter & Dart
+  - Android Development
+  - Python & AI/ML
+  - Data Science & Data Mining
+  - Web Development (PHP, MySQL)
+  - Software Testing & Deployment
+interests:
+  - Research & Patents
+  - Writing Technical Books
+  - Teaching & Mentoring Students
+  - Solving Real-World Problems with Tech
 
 ### 🔥 Currently Working On  
 - 🚀 **Flutter/React Native Mobile App Development**  
