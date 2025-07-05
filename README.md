@@ -61,9 +61,7 @@ interests:
 ---
 
 ## 🌍 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-joshi-8s99/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://your-portfolio.com/)  
-📧 **ronakjoshi8299@gmail.com**
+<p align="center"> <a href="https://www.linkedin.com/in/ronak-joshi-rj"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:ronakjoshi.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/ronakjoshi27"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" /></a> <a href="https://instagram.com/the_professor_rj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
 
 ---
 
@@ -72,9 +70,7 @@ interests:
 
 ---
 
-### 🖥️ Fun GIF
-<p align="center">
-  <img src='https://camo.githubusercontent.com/2d74e5bb8437158e8e03f146db949b974c13df30804383207563ec797213182c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966' width="450" />
-</p>
+### 🖥️ Thanks You
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ronakjoshi27&label=Profile+Views&color=0e75b6&style=flat" /> </p> ```
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
